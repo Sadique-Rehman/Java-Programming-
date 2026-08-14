@@ -49,7 +49,7 @@ class Rectangle extends Shape {
     }
 }
 
-public class Main {
+ class Abstract {
 
     public static void main(String[] args) {
 
